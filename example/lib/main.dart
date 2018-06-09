@@ -44,7 +44,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  PhoneNumber _phoneNumber;
+  CountryCode _countryCode;
 
   // void _incrementCounter() {
   //   setState(() {
@@ -57,9 +57,9 @@ class _MyHomePageState extends State<MyHomePage> {
   //   });
   // }
 
-  void _updateMobileNumber(PhoneNumber phoneNumber) {
+  void _updateCountryCode(CountryCode countryCode) {
     setState(() {
-      _phoneNumber = phoneNumber;
+      _countryCode = countryCode;
     });
   }
 
@@ -96,17 +96,33 @@ class _MyHomePageState extends State<MyHomePage> {
           // horizontal).
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            (_phoneNumber == null)
+            (_countryCode == null)
                 ? new Text(
                     'This is the test app ',
                   )
                 : new Text(
-                    'Got number:  ' + _phoneNumber.formattedNumber,
+                    'Got country dial code :  ' + _countryCode.dialCode,
                   ),
-            CountryCodeSelector(
-              onChange: _updateMobileNumber,
-              defaultIsoCode: "AU",
-            ),
+            Container(
+              padding: EdgeInsets.only(right: 16.0),
+              child: new Row(
+                children: <Widget>[
+                  CountryCodeSelector(
+                    onChange: _updateCountryCode,
+                    defaultIsoCode: "AU",
+                  ),
+                  Expanded(
+                    child: new TextField(
+                      style: TextStyle(fontSize: 22.00, color: Colors.black),
+                      decoration: new InputDecoration(
+                        hintText: "Mobile number",
+                      ),
+                      keyboardType: TextInputType.phone,
+                    ),
+                  ),
+                ],
+              ),
+            )
           ],
         ),
       ),

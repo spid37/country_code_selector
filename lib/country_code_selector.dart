@@ -7,7 +7,7 @@ import 'dart:convert';
 
 class CountryCodeSelector extends StatefulWidget {
   final String defaultIsoCode;
-  final Function(PhoneNumber) onChange;
+  final Function(CountryCode) onChange;
 
   CountryCodeSelector({
     @required this.onChange,
@@ -21,26 +21,14 @@ class CountryCodeSelector extends StatefulWidget {
 class _CountryCodeSelectorState extends State<CountryCodeSelector> {
   List<CountryCode> _countryCodes;
   CountryCode _countryCode;
-  String _phoneNumber;
   bool _isLoading = true;
 
   @override
   void initState() {
     super.initState();
-
     try {
       _loadCountryCodes();
     } catch (e) {}
-  }
-
-  void _handleOnChnage() {
-    if (_phoneNumber == "" || _countryCode == null) {
-      return null;
-    }
-    var phoneNumber =
-        new PhoneNumber(countryCode: _countryCode, phoneNumber: _phoneNumber);
-    // run the callback
-    widget.onChange(phoneNumber);
   }
 
   void _loadCountryCodes() async {
@@ -64,6 +52,9 @@ class _CountryCodeSelectorState extends State<CountryCodeSelector> {
       _countryCode = defaultCountryCode;
       _isLoading = false;
     });
+
+    // send parent default counrty code
+    widget.onChange(defaultCountryCode);
   }
 
   void setCountryCode(CountryCode code) {
@@ -71,7 +62,7 @@ class _CountryCodeSelectorState extends State<CountryCodeSelector> {
       _countryCode = code;
     });
     // call the parent callback
-    _handleOnChnage();
+    widget.onChange(code);
   }
 
   Future<Null> _showDialog() async {
@@ -85,16 +76,26 @@ class _CountryCodeSelectorState extends State<CountryCodeSelector> {
     }
   }
 
+  AssetImage _countryImageAsset(String imageAsset) {
+    try {
+      return new AssetImage(
+        _countryCode.image,
+        package: "country_code_selector",
+      );
+    } catch (e) {
+      print("Failed to load image" + imageAsset);
+    }
+
+    return null;
+  }
+
   Widget _selectButton() {
     return new FlatButton(
       child: Row(
         children: <Widget>[
           new Image(
             width: 38.00,
-            image: new AssetImage(
-              _countryCode.image,
-              package: "country_code_selector",
-            ),
+            image: _countryImageAsset(_countryCode.image),
           ),
           Padding(
             padding: const EdgeInsets.only(left: 8.0),
@@ -111,49 +112,10 @@ class _CountryCodeSelectorState extends State<CountryCodeSelector> {
     );
   }
 
-  void _phoneNumberUpdate(s) {
-    setState(() {
-      _phoneNumber = s;
-    });
-
-    // call the parent callback
-    _handleOnChnage();
-  }
-
   @override
   Widget build(BuildContext context) {
-    return _isLoading
-        ? new Container()
-        : new Container(
-            child: Padding(
-              padding: const EdgeInsets.only(left: 0.0, right: 16.0),
-              child: new Row(
-                children: <Widget>[
-                  _selectButton(),
-                  Expanded(
-                    child: new TextField(
-                      onChanged: _phoneNumberUpdate,
-                      style: TextStyle(fontSize: 24.00, color: Colors.black),
-                      decoration: new InputDecoration(
-                        hintText: "Mobile number",
-                      ),
-                      keyboardType: TextInputType.phone,
-                    ),
-                  ),
-                ],
-              ),
-            ),
-          );
+    return _isLoading ? new Container() : new Container(child: _selectButton());
   }
-}
-
-class PhoneNumber {
-  final CountryCode countryCode;
-  final String phoneNumber;
-
-  PhoneNumber({this.countryCode, this.phoneNumber});
-
-  String get formattedNumber => this.countryCode.dialCode + this.phoneNumber;
 }
 
 class CountryCode {
