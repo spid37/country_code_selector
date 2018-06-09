@@ -19,11 +19,11 @@ CountryCodeSelector(
 
 example images.
 
-![country code screenshot selected](https://raw.githubusercontent.com/spid37/country_code_selector/master/example/screenshots/selectedcountrycode.png 'Selected country code')
+![country code screenshot selected](https://raw.githubusercontent.com/spid37/country_code_selector/master/screenshots/selectedcountrycode.png 'Selected country code')
 
-![country code screenshot ](https://raw.githubusercontent.com/spid37/country_code_selector/master/example/screenshots/selectcountrycode.png 'Select country code')
+![country code screenshot ](https://raw.githubusercontent.com/spid37/country_code_selector/master/screenshots/selectcountrycode.png 'Select country code')
 
-![country code screenshot](https://raw.githubusercontent.com/spid37/country_code_selector/master/example/screenshots/searchcountrycode.png 'Search country code')
+![country code screenshot](https://raw.githubusercontent.com/spid37/country_code_selector/master/screenshots/searchcountrycode.png 'Search country code')
 
 ---
 
