@@ -1,5 +1,5 @@
 name: example
-description: A new Flutter project.
+description: Example for country code selector.
 
 dependencies:
   flutter:
@@ -10,7 +10,7 @@ dependencies:
   cupertino_icons: ^0.1.2
   
   country_code_selector: 
-    path: ../
+    path: ../country_code_selector_package/
 
 dev_dependencies:
   flutter_test:

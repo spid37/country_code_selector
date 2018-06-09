@@ -53,7 +53,7 @@ packages:
   country_code_selector:
     dependency: "direct main"
     description:
-      path: ".."
+      path: "../country_code_selector_package"
       relative: true
     source: path
     version: "0.0.1"
