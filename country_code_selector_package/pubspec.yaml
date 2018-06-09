@@ -4,6 +4,9 @@ version: 0.0.1
 author: Nicholas Terrell <spid37@gmail.com>
 homepage: https://github.com/spid37/country_code_selector
 
+environment:
+  sdk: ">=1.19.0 <2.0.0"
+
 dependencies:
   flutter:
     sdk: flutter
