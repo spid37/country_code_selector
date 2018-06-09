@@ -1,8 +1,8 @@
 name: country_code_selector
 description: A flutter package for selecting dial codes
 version: 0.0.1
-author: Nicholas Terrell
-homepage:
+author: Nicholas Terrell <spid37@gmail.com>
+homepage: https://github.com/spid37/country_code_selector
 
 dependencies:
   flutter:
