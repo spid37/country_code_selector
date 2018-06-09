@@ -76,26 +76,16 @@ class _CountryCodeSelectorState extends State<CountryCodeSelector> {
     }
   }
 
-  AssetImage _countryImageAsset(String imageAsset) {
-    try {
-      return new AssetImage(
-        _countryCode.image,
-        package: "country_code_selector",
-      );
-    } catch (e) {
-      print("Failed to load image" + imageAsset);
-    }
-
-    return null;
-  }
-
   Widget _selectButton() {
     return new FlatButton(
       child: Row(
         children: <Widget>[
           new Image(
             width: 38.00,
-            image: _countryImageAsset(_countryCode.image),
+            image: new AssetImage(
+              _countryCode.image,
+              package: "country_code_selector",
+            ),
           ),
           Padding(
             padding: const EdgeInsets.only(left: 8.0),

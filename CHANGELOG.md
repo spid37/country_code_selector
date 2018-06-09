@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - Initial commit
 
-* TODO: Describe initial release.
+- flutter package for selecting country dial codes

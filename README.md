@@ -1,9 +1,10 @@
-# country_code_selector
+# country code selector
 
-A new flutter package project.
+Flutter package for selecting country dial codes
 
-## Getting Started
+example images.
 
-For help getting started with Flutter, view our online [documentation](https://flutter.io/).
+TODO: Add image here
 
-For help on editing package code, view the [documentation](https://flutter.io/developing-packages/).
+Flag icons designed by Freepik from Flaticon,
+[https://www.flaticon.com/packs/flags-collection](https://www.flaticon.com/packs/flags-collection)
