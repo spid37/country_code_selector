@@ -1,0 +1,1454 @@
+[
+  {
+    "country": "Afghanistan",
+    "dialCode": "93",
+    "isoCode": "AF",
+    "image": "assets/flags/af.png"
+  },
+  {
+    "country": "Albania",
+    "dialCode": "355",
+    "isoCode": "AL",
+    "image": "assets/flags/al.png"
+  },
+  {
+    "country": "Algeria",
+    "dialCode": "213",
+    "isoCode": "DZ",
+    "image": "assets/flags/dz.png"
+  },
+  {
+    "country": "American Samoa",
+    "dialCode": "1684",
+    "isoCode": "AS",
+    "image": "assets/flags/as.png"
+  },
+  {
+    "country": "Andorra",
+    "dialCode": "376",
+    "isoCode": "AD",
+    "image": "assets/flags/ad.png"
+  },
+  {
+    "country": "Angola",
+    "dialCode": "244",
+    "isoCode": "AO",
+    "image": "assets/flags/ao.png"
+  },
+  {
+    "country": "Anguilla",
+    "dialCode": "1264",
+    "isoCode": "AI",
+    "image": "assets/flags/ai.png"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "dialCode": "1268",
+    "isoCode": "AG",
+    "image": "assets/flags/ag.png"
+  },
+  {
+    "country": "Argentina",
+    "dialCode": "54",
+    "isoCode": "AR",
+    "image": "assets/flags/ar.png"
+  },
+  {
+    "country": "Armenia",
+    "dialCode": "374",
+    "isoCode": "AM",
+    "image": "assets/flags/am.png"
+  },
+  {
+    "country": "Aruba",
+    "dialCode": "297",
+    "isoCode": "AW",
+    "image": "assets/flags/aw.png"
+  },
+  {
+    "country": "Australia",
+    "dialCode": "61",
+    "isoCode": "AU",
+    "image": "assets/flags/au.png"
+  },
+  {
+    "country": "Austria",
+    "dialCode": "43",
+    "isoCode": "AT",
+    "image": "assets/flags/at.png"
+  },
+  {
+    "country": "Azerbaijan",
+    "dialCode": "994",
+    "isoCode": "AZ",
+    "image": "assets/flags/az.png"
+  },
+  {
+    "country": "Bahamas",
+    "dialCode": "1242",
+    "isoCode": "BS",
+    "image": "assets/flags/bs.png"
+  },
+  {
+    "country": "Bahrain",
+    "dialCode": "973",
+    "isoCode": "BH",
+    "image": "assets/flags/bh.png"
+  },
+  {
+    "country": "Bangladesh",
+    "dialCode": "880",
+    "isoCode": "BD",
+    "image": "assets/flags/bd.png"
+  },
+  {
+    "country": "Barbados",
+    "dialCode": "1246",
+    "isoCode": "BB",
+    "image": "assets/flags/bb.png"
+  },
+  {
+    "country": "Belarus",
+    "dialCode": "375",
+    "isoCode": "BY",
+    "image": "assets/flags/by.png"
+  },
+  {
+    "country": "Belgium",
+    "dialCode": "32",
+    "isoCode": "BE",
+    "image": "assets/flags/be.png"
+  },
+  {
+    "country": "Belize",
+    "dialCode": "501",
+    "isoCode": "BZ",
+    "image": "assets/flags/bz.png"
+  },
+  {
+    "country": "Benin",
+    "dialCode": "229",
+    "isoCode": "BJ",
+    "image": "assets/flags/bj.png"
+  },
+  {
+    "country": "Bermuda",
+    "dialCode": "1441",
+    "isoCode": "BM",
+    "image": "assets/flags/bm.png"
+  },
+  {
+    "country": "Bhutan",
+    "dialCode": "975",
+    "isoCode": "BT",
+    "image": "assets/flags/bt.png"
+  },
+  {
+    "country": "Bolivia",
+    "dialCode": "591",
+    "isoCode": "BO",
+    "image": "assets/flags/bo.png"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "dialCode": "387",
+    "isoCode": "BA",
+    "image": "assets/flags/ba.png"
+  },
+  {
+    "country": "Botswana",
+    "dialCode": "267",
+    "isoCode": "BW",
+    "image": "assets/flags/bw.png"
+  },
+  {
+    "country": "Brazil",
+    "dialCode": "55",
+    "isoCode": "BR",
+    "image": "assets/flags/br.png"
+  },
+  {
+    "country": "British Indian Ocean Territory",
+    "dialCode": "246",
+    "isoCode": "IO",
+    "image": "assets/flags/io.png"
+  },
+  {
+    "country": "British Virgin Islands",
+    "dialCode": "1284",
+    "isoCode": "VG",
+    "image": "assets/flags/vg.png"
+  },
+  {
+    "country": "Brunei",
+    "dialCode": "673",
+    "isoCode": "BN",
+    "image": "assets/flags/bn.png"
+  },
+  {
+    "country": "Bulgaria",
+    "dialCode": "359",
+    "isoCode": "BG",
+    "image": "assets/flags/bg.png"
+  },
+  {
+    "country": "Burkina Faso",
+    "dialCode": "226",
+    "isoCode": "BF",
+    "image": "assets/flags/bf.png"
+  },
+  {
+    "country": "Burundi",
+    "dialCode": "257",
+    "isoCode": "BI",
+    "image": "assets/flags/bi.png"
+  },
+  {
+    "country": "Cambodia",
+    "dialCode": "855",
+    "isoCode": "KH",
+    "image": "assets/flags/kh.png"
+  },
+  {
+    "country": "Cameroon",
+    "dialCode": "237",
+    "isoCode": "CM",
+    "image": "assets/flags/cm.png"
+  },
+  {
+    "country": "Canada",
+    "dialCode": "1",
+    "isoCode": "CA",
+    "image": "assets/flags/ca.png"
+  },
+  {
+    "country": "Cape Verde",
+    "dialCode": "238",
+    "isoCode": "CV",
+    "image": "assets/flags/cv.png"
+  },
+  {
+    "country": "Cayman Islands",
+    "dialCode": "1345",
+    "isoCode": "KY",
+    "image": "assets/flags/ky.png"
+  },
+  {
+    "country": "Central African Republic",
+    "dialCode": "236",
+    "isoCode": "CF",
+    "image": "assets/flags/cf.png"
+  },
+  {
+    "country": "Chad",
+    "dialCode": "235",
+    "isoCode": "TD",
+    "image": "assets/flags/td.png"
+  },
+  {
+    "country": "Chile",
+    "dialCode": "56",
+    "isoCode": "CL",
+    "image": "assets/flags/cl.png"
+  },
+  {
+    "country": "China",
+    "dialCode": "86",
+    "isoCode": "CN",
+    "image": "assets/flags/cn.png"
+  },
+  {
+    "country": "Christmas Island",
+    "dialCode": "61",
+    "isoCode": "CX",
+    "image": "assets/flags/cx.png"
+  },
+  {
+    "country": "Cocos Islands",
+    "dialCode": "61",
+    "isoCode": "CC",
+    "image": "assets/flags/cc.png"
+  },
+  {
+    "country": "Colombia",
+    "dialCode": "57",
+    "isoCode": "CO",
+    "image": "assets/flags/co.png"
+  },
+  {
+    "country": "Comoros",
+    "dialCode": "269",
+    "isoCode": "KM",
+    "image": "assets/flags/km.png"
+  },
+  {
+    "country": "Cook Islands",
+    "dialCode": "682",
+    "isoCode": "CK",
+    "image": "assets/flags/ck.png"
+  },
+  {
+    "country": "Costa Rica",
+    "dialCode": "506",
+    "isoCode": "CR",
+    "image": "assets/flags/cr.png"
+  },
+  {
+    "country": "Croatia",
+    "dialCode": "385",
+    "isoCode": "HR",
+    "image": "assets/flags/hr.png"
+  },
+  {
+    "country": "Cuba",
+    "dialCode": "53",
+    "isoCode": "CU",
+    "image": "assets/flags/cu.png"
+  },
+  {
+    "country": "Curacao",
+    "dialCode": "599",
+    "isoCode": "CW",
+    "image": "assets/flags/cw.png"
+  },
+  {
+    "country": "Cyprus",
+    "dialCode": "357",
+    "isoCode": "CY",
+    "image": "assets/flags/cy.png"
+  },
+  {
+    "country": "Czech Republic",
+    "dialCode": "420",
+    "isoCode": "CZ",
+    "image": "assets/flags/cz.png"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "dialCode": "243",
+    "isoCode": "CD",
+    "image": "assets/flags/cd.png"
+  },
+  {
+    "country": "Denmark",
+    "dialCode": "45",
+    "isoCode": "DK",
+    "image": "assets/flags/dk.png"
+  },
+  {
+    "country": "Djibouti",
+    "dialCode": "253",
+    "isoCode": "DJ",
+    "image": "assets/flags/dj.png"
+  },
+  {
+    "country": "Dominica",
+    "dialCode": "1767",
+    "isoCode": "DM",
+    "image": "assets/flags/dm.png"
+  },
+  {
+    "country": "Dominican Republic",
+    "dialCode": "1809",
+    "isoCode": "DO",
+    "image": "assets/flags/do.png"
+  },
+  {
+    "country": "Dominican Republic",
+    "dialCode": "1829",
+    "isoCode": "DO",
+    "image": "assets/flags/do.png"
+  },
+  {
+    "country": "Dominican Republic",
+    "dialCode": "1849",
+    "isoCode": "DO",
+    "image": "assets/flags/do.png"
+  },
+  {
+    "country": "East Timor",
+    "dialCode": "670",
+    "isoCode": "TL",
+    "image": "assets/flags/tl.png"
+  },
+  {
+    "country": "Ecuador",
+    "dialCode": "593",
+    "isoCode": "EC",
+    "image": "assets/flags/ec.png"
+  },
+  {
+    "country": "Egypt",
+    "dialCode": "20",
+    "isoCode": "EG",
+    "image": "assets/flags/eg.png"
+  },
+  {
+    "country": "El Salvador",
+    "dialCode": "503",
+    "isoCode": "SV",
+    "image": "assets/flags/sv.png"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "dialCode": "240",
+    "isoCode": "GQ",
+    "image": "assets/flags/gq.png"
+  },
+  {
+    "country": "Eritrea",
+    "dialCode": "291",
+    "isoCode": "ER",
+    "image": "assets/flags/er.png"
+  },
+  {
+    "country": "Estonia",
+    "dialCode": "372",
+    "isoCode": "EE",
+    "image": "assets/flags/ee.png"
+  },
+  {
+    "country": "Ethiopia",
+    "dialCode": "251",
+    "isoCode": "ET",
+    "image": "assets/flags/et.png"
+  },
+  {
+    "country": "Falkland Islands",
+    "dialCode": "500",
+    "isoCode": "FK",
+    "image": "assets/flags/fk.png"
+  },
+  {
+    "country": "Faroe Islands",
+    "dialCode": "298",
+    "isoCode": "FO",
+    "image": "assets/flags/fo.png"
+  },
+  {
+    "country": "Fiji",
+    "dialCode": "679",
+    "isoCode": "FJ",
+    "image": "assets/flags/fj.png"
+  },
+  {
+    "country": "Finland",
+    "dialCode": "358",
+    "isoCode": "FI",
+    "image": "assets/flags/fi.png"
+  },
+  {
+    "country": "France",
+    "dialCode": "33",
+    "isoCode": "FR",
+    "image": "assets/flags/fr.png"
+  },
+  {
+    "country": "French Polynesia",
+    "dialCode": "689",
+    "isoCode": "PF",
+    "image": "assets/flags/pf.png"
+  },
+  {
+    "country": "Gabon",
+    "dialCode": "241",
+    "isoCode": "GA",
+    "image": "assets/flags/ga.png"
+  },
+  {
+    "country": "Gambia",
+    "dialCode": "220",
+    "isoCode": "GM",
+    "image": "assets/flags/gm.png"
+  },
+  {
+    "country": "Georgia",
+    "dialCode": "995",
+    "isoCode": "GE",
+    "image": "assets/flags/ge.png"
+  },
+  {
+    "country": "Germany",
+    "dialCode": "49",
+    "isoCode": "DE",
+    "image": "assets/flags/de.png"
+  },
+  {
+    "country": "Ghana",
+    "dialCode": "233",
+    "isoCode": "GH",
+    "image": "assets/flags/gh.png"
+  },
+  {
+    "country": "Gibraltar",
+    "dialCode": "350",
+    "isoCode": "GI",
+    "image": "assets/flags/gi.png"
+  },
+  {
+    "country": "Greece",
+    "dialCode": "30",
+    "isoCode": "GR",
+    "image": "assets/flags/gr.png"
+  },
+  {
+    "country": "Greenland",
+    "dialCode": "299",
+    "isoCode": "GL",
+    "image": "assets/flags/gl.png"
+  },
+  {
+    "country": "Grenada",
+    "dialCode": "1473",
+    "isoCode": "GD",
+    "image": "assets/flags/gd.png"
+  },
+  {
+    "country": "Guam",
+    "dialCode": "1671",
+    "isoCode": "GU",
+    "image": "assets/flags/gu.png"
+  },
+  {
+    "country": "Guatemala",
+    "dialCode": "502",
+    "isoCode": "GT",
+    "image": "assets/flags/gt.png"
+  },
+  {
+    "country": "Guernsey",
+    "dialCode": "441481",
+    "isoCode": "GG",
+    "image": "assets/flags/gg.png"
+  },
+  {
+    "country": "Guinea",
+    "dialCode": "224",
+    "isoCode": "GN",
+    "image": "assets/flags/gn.png"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "dialCode": "245",
+    "isoCode": "GW",
+    "image": "assets/flags/gw.png"
+  },
+  {
+    "country": "Guyana",
+    "dialCode": "592",
+    "isoCode": "GY",
+    "image": "assets/flags/gy.png"
+  },
+  {
+    "country": "Haiti",
+    "dialCode": "509",
+    "isoCode": "HT",
+    "image": "assets/flags/ht.png"
+  },
+  {
+    "country": "Honduras",
+    "dialCode": "504",
+    "isoCode": "HN",
+    "image": "assets/flags/hn.png"
+  },
+  {
+    "country": "Hong Kong",
+    "dialCode": "852",
+    "isoCode": "HK",
+    "image": "assets/flags/hk.png"
+  },
+  {
+    "country": "Hungary",
+    "dialCode": "36",
+    "isoCode": "HU",
+    "image": "assets/flags/hu.png"
+  },
+  {
+    "country": "Iceland",
+    "dialCode": "354",
+    "isoCode": "IS",
+    "image": "assets/flags/is.png"
+  },
+  {
+    "country": "India",
+    "dialCode": "91",
+    "isoCode": "IN",
+    "image": "assets/flags/in.png"
+  },
+  {
+    "country": "Indonesia",
+    "dialCode": "62",
+    "isoCode": "ID",
+    "image": "assets/flags/id.png"
+  },
+  {
+    "country": "Iran",
+    "dialCode": "98",
+    "isoCode": "IR",
+    "image": "assets/flags/ir.png"
+  },
+  {
+    "country": "Iraq",
+    "dialCode": "964",
+    "isoCode": "IQ",
+    "image": "assets/flags/iq.png"
+  },
+  {
+    "country": "Ireland",
+    "dialCode": "353",
+    "isoCode": "IE",
+    "image": "assets/flags/ie.png"
+  },
+  {
+    "country": "Isle of Man",
+    "dialCode": "441624",
+    "isoCode": "IM",
+    "image": "assets/flags/im.png"
+  },
+  {
+    "country": "Israel",
+    "dialCode": "972",
+    "isoCode": "IL",
+    "image": "assets/flags/il.png"
+  },
+  {
+    "country": "Italy",
+    "dialCode": "39",
+    "isoCode": "IT",
+    "image": "assets/flags/it.png"
+  },
+  {
+    "country": "Ivory Coast",
+    "dialCode": "225",
+    "isoCode": "CI",
+    "image": "assets/flags/ci.png"
+  },
+  {
+    "country": "Jamaica",
+    "dialCode": "1876",
+    "isoCode": "JM",
+    "image": "assets/flags/jm.png"
+  },
+  {
+    "country": "Japan",
+    "dialCode": "81",
+    "isoCode": "JP",
+    "image": "assets/flags/jp.png"
+  },
+  {
+    "country": "Jersey",
+    "dialCode": "441534",
+    "isoCode": "JE",
+    "image": "assets/flags/je.png"
+  },
+  {
+    "country": "Jordan",
+    "dialCode": "962",
+    "isoCode": "JO",
+    "image": "assets/flags/jo.png"
+  },
+  {
+    "country": "Kazakhstan",
+    "dialCode": "7",
+    "isoCode": "KZ",
+    "image": "assets/flags/kz.png"
+  },
+  {
+    "country": "Kenya",
+    "dialCode": "254",
+    "isoCode": "KE",
+    "image": "assets/flags/ke.png"
+  },
+  {
+    "country": "Kiribati",
+    "dialCode": "686",
+    "isoCode": "KI",
+    "image": "assets/flags/ki.png"
+  },
+  {
+    "country": "Kosovo",
+    "dialCode": "383",
+    "isoCode": "XK",
+    "image": "assets/flags/xk.png"
+  },
+  {
+    "country": "Kuwait",
+    "dialCode": "965",
+    "isoCode": "KW",
+    "image": "assets/flags/kw.png"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "dialCode": "996",
+    "isoCode": "KG",
+    "image": "assets/flags/kg.png"
+  },
+  {
+    "country": "Laos",
+    "dialCode": "856",
+    "isoCode": "LA",
+    "image": "assets/flags/la.png"
+  },
+  {
+    "country": "Latvia",
+    "dialCode": "371",
+    "isoCode": "LV",
+    "image": "assets/flags/lv.png"
+  },
+  {
+    "country": "Lebanon",
+    "dialCode": "961",
+    "isoCode": "LB",
+    "image": "assets/flags/lb.png"
+  },
+  {
+    "country": "Lesotho",
+    "dialCode": "266",
+    "isoCode": "LS",
+    "image": "assets/flags/ls.png"
+  },
+  {
+    "country": "Liberia",
+    "dialCode": "231",
+    "isoCode": "LR",
+    "image": "assets/flags/lr.png"
+  },
+  {
+    "country": "Libya",
+    "dialCode": "218",
+    "isoCode": "LY",
+    "image": "assets/flags/ly.png"
+  },
+  {
+    "country": "Liechtenstein",
+    "dialCode": "423",
+    "isoCode": "LI",
+    "image": "assets/flags/li.png"
+  },
+  {
+    "country": "Lithuania",
+    "dialCode": "370",
+    "isoCode": "LT",
+    "image": "assets/flags/lt.png"
+  },
+  {
+    "country": "Luxembourg",
+    "dialCode": "352",
+    "isoCode": "LU",
+    "image": "assets/flags/lu.png"
+  },
+  {
+    "country": "Macau",
+    "dialCode": "853",
+    "isoCode": "MO",
+    "image": "assets/flags/mo.png"
+  },
+  {
+    "country": "Macedonia",
+    "dialCode": "389",
+    "isoCode": "MK",
+    "image": "assets/flags/mk.png"
+  },
+  {
+    "country": "Madagascar",
+    "dialCode": "261",
+    "isoCode": "MG",
+    "image": "assets/flags/mg.png"
+  },
+  {
+    "country": "Malawi",
+    "dialCode": "265",
+    "isoCode": "MW",
+    "image": "assets/flags/mw.png"
+  },
+  {
+    "country": "Malaysia",
+    "dialCode": "60",
+    "isoCode": "MY",
+    "image": "assets/flags/my.png"
+  },
+  {
+    "country": "Maldives",
+    "dialCode": "960",
+    "isoCode": "MV",
+    "image": "assets/flags/mv.png"
+  },
+  {
+    "country": "Mali",
+    "dialCode": "223",
+    "isoCode": "ML",
+    "image": "assets/flags/ml.png"
+  },
+  {
+    "country": "Malta",
+    "dialCode": "356",
+    "isoCode": "MT",
+    "image": "assets/flags/mt.png"
+  },
+  {
+    "country": "Marshall Islands",
+    "dialCode": "692",
+    "isoCode": "MH",
+    "image": "assets/flags/mh.png"
+  },
+  {
+    "country": "Mauritania",
+    "dialCode": "222",
+    "isoCode": "MR",
+    "image": "assets/flags/mr.png"
+  },
+  {
+    "country": "Mauritius",
+    "dialCode": "230",
+    "isoCode": "MU",
+    "image": "assets/flags/mu.png"
+  },
+  {
+    "country": "Mayotte",
+    "dialCode": "262",
+    "isoCode": "YT",
+    "image": "assets/flags/fr.png"
+  },
+  {
+    "country": "Mexico",
+    "dialCode": "52",
+    "isoCode": "MX",
+    "image": "assets/flags/mx.png"
+  },
+  {
+    "country": "Micronesia",
+    "dialCode": "691",
+    "isoCode": "FM",
+    "image": "assets/flags/fm.png"
+  },
+  {
+    "country": "Moldova",
+    "dialCode": "373",
+    "isoCode": "MD",
+    "image": "assets/flags/md.png"
+  },
+  {
+    "country": "Monaco",
+    "dialCode": "377",
+    "isoCode": "MC",
+    "image": "assets/flags/mc.png"
+  },
+  {
+    "country": "Mongolia",
+    "dialCode": "976",
+    "isoCode": "MN",
+    "image": "assets/flags/mn.png"
+  },
+  {
+    "country": "Montenegro",
+    "dialCode": "382",
+    "isoCode": "ME",
+    "image": "assets/flags/me.png"
+  },
+  {
+    "country": "Montserrat",
+    "dialCode": "1664",
+    "isoCode": "MS",
+    "image": "assets/flags/ms.png"
+  },
+  {
+    "country": "Morocco",
+    "dialCode": "212",
+    "isoCode": "MA",
+    "image": "assets/flags/ma.png"
+  },
+  {
+    "country": "Mozambique",
+    "dialCode": "258",
+    "isoCode": "MZ",
+    "image": "assets/flags/mz.png"
+  },
+  {
+    "country": "Myanmar",
+    "dialCode": "95",
+    "isoCode": "MM",
+    "image": "assets/flags/mm.png"
+  },
+  {
+    "country": "Namibia",
+    "dialCode": "264",
+    "isoCode": "NA",
+    "image": "assets/flags/na.png"
+  },
+  {
+    "country": "Nauru",
+    "dialCode": "674",
+    "isoCode": "NR",
+    "image": "assets/flags/nr.png"
+  },
+  {
+    "country": "Nepal",
+    "dialCode": "977",
+    "isoCode": "NP",
+    "image": "assets/flags/np.png"
+  },
+  {
+    "country": "Netherlands",
+    "dialCode": "31",
+    "isoCode": "NL",
+    "image": "assets/flags/nl.png"
+  },
+  {
+    "country": "Netherlands Antilles",
+    "dialCode": "599",
+    "isoCode": "AN",
+    "image": "assets/placeholder.png"
+  },
+  {
+    "country": "New Caledonia",
+    "dialCode": "687",
+    "isoCode": "NC",
+    "image": "assets/flags/fr.png"
+  },
+  {
+    "country": "New Zealand",
+    "dialCode": "64",
+    "isoCode": "NZ",
+    "image": "assets/flags/nz.png"
+  },
+  {
+    "country": "Nicaragua",
+    "dialCode": "505",
+    "isoCode": "NI",
+    "image": "assets/flags/ni.png"
+  },
+  {
+    "country": "Niger",
+    "dialCode": "227",
+    "isoCode": "NE",
+    "image": "assets/flags/ne.png"
+  },
+  {
+    "country": "Nigeria",
+    "dialCode": "234",
+    "isoCode": "NG",
+    "image": "assets/flags/ng.png"
+  },
+  {
+    "country": "Niue",
+    "dialCode": "683",
+    "isoCode": "NU",
+    "image": "assets/flags/nu.png"
+  },
+  {
+    "country": "North Korea",
+    "dialCode": "850",
+    "isoCode": "KP",
+    "image": "assets/flags/kp.png"
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "dialCode": "1670",
+    "isoCode": "MP",
+    "image": "assets/placeholder.png"
+  },
+  {
+    "country": "Norway",
+    "dialCode": "47",
+    "isoCode": "NO",
+    "image": "assets/flags/no.png"
+  },
+  {
+    "country": "Oman",
+    "dialCode": "968",
+    "isoCode": "OM",
+    "image": "assets/flags/om.png"
+  },
+  {
+    "country": "Pakistan",
+    "dialCode": "92",
+    "isoCode": "PK",
+    "image": "assets/flags/pk.png"
+  },
+  {
+    "country": "Palau",
+    "dialCode": "680",
+    "isoCode": "PW",
+    "image": "assets/flags/pw.png"
+  },
+  {
+    "country": "Palestine",
+    "dialCode": "970",
+    "isoCode": "PS",
+    "image": "assets/flags/ps.png"
+  },
+  {
+    "country": "Panama",
+    "dialCode": "507",
+    "isoCode": "PA",
+    "image": "assets/flags/pa.png"
+  },
+  {
+    "country": "Papua New Guinea",
+    "dialCode": "675",
+    "isoCode": "PG",
+    "image": "assets/flags/pg.png"
+  },
+  {
+    "country": "Paraguay",
+    "dialCode": "595",
+    "isoCode": "PY",
+    "image": "assets/flags/py.png"
+  },
+  {
+    "country": "Peru",
+    "dialCode": "51",
+    "isoCode": "PE",
+    "image": "assets/flags/pe.png"
+  },
+  {
+    "country": "Philippines",
+    "dialCode": "63",
+    "isoCode": "PH",
+    "image": "assets/flags/ph.png"
+  },
+  {
+    "country": "Pitcairn Islands",
+    "dialCode": "64",
+    "isoCode": "PN",
+    "image": "assets/flags/pn.png"
+  },
+  {
+    "country": "Poland",
+    "dialCode": "48",
+    "isoCode": "PL",
+    "image": "assets/flags/pl.png"
+  },
+  {
+    "country": "Portugal",
+    "dialCode": "351",
+    "isoCode": "PT",
+    "image": "assets/flags/pt.png"
+  },
+  {
+    "country": "Puerto Rico",
+    "dialCode": "1787",
+    "isoCode": "PR",
+    "image": "assets/flags/pr.png"
+  },
+  {
+    "country": "Puerto Rico",
+    "dialCode": "1787",
+    "isoCode": "PR",
+    "image": "assets/flags/pr.png"
+  },
+  {
+    "country": "Qatar",
+    "dialCode": "974",
+    "isoCode": "QA",
+    "image": "assets/flags/qa.png"
+  },
+  {
+    "country": "Republic of the Congo",
+    "dialCode": "242",
+    "isoCode": "CG",
+    "image": "assets/flags/cg.png"
+  },
+  {
+    "country": "Reunion",
+    "dialCode": "262",
+    "isoCode": "RE",
+    "image": "assets/flags/fr.png"
+  },
+  {
+    "country": "Romania",
+    "dialCode": "40",
+    "isoCode": "RO",
+    "image": "assets/flags/ro.png"
+  },
+  {
+    "country": "Russia",
+    "dialCode": "7",
+    "isoCode": "RU",
+    "image": "assets/flags/ru.png"
+  },
+  {
+    "country": "Rwanda",
+    "dialCode": "250",
+    "isoCode": "RW",
+    "image": "assets/flags/rw.png"
+  },
+  {
+    "country": "Saint Barthelemy",
+    "dialCode": "590",
+    "isoCode": "BL",
+    "image": "assets/flags/bl.png"
+  },
+  {
+    "country": "Saint Helena",
+    "dialCode": "290",
+    "isoCode": "SH",
+    "image": "assets/placeholder.png"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "dialCode": "1869",
+    "isoCode": "KN",
+    "image": "assets/flags/kn.png"
+  },
+  {
+    "country": "Saint Lucia",
+    "dialCode": "1758",
+    "isoCode": "LC",
+    "image": "assets/flags/lc.png"
+  },
+  {
+    "country": "Saint Martin",
+    "dialCode": "590",
+    "isoCode": "MF",
+    "image": "assets/flags/mf.png"
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "dialCode": "508",
+    "isoCode": "PM",
+    "image": "assets/flags/fr.png"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "dialCode": "1784",
+    "isoCode": "VC",
+    "image": "assets/flags/vc.png"
+  },
+  {
+    "country": "Samoa",
+    "dialCode": "685",
+    "isoCode": "WS",
+    "image": "assets/flags/ws.png"
+  },
+  {
+    "country": "San Marino",
+    "dialCode": "378",
+    "isoCode": "SM",
+    "image": "assets/flags/sm.png"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "dialCode": "239",
+    "isoCode": "ST",
+    "image": "assets/flags/st.png"
+  },
+  {
+    "country": "Saudi Arabia",
+    "dialCode": "966",
+    "isoCode": "SA",
+    "image": "assets/flags/sa.png"
+  },
+  {
+    "country": "Senegal",
+    "dialCode": "221",
+    "isoCode": "SN",
+    "image": "assets/flags/sn.png"
+  },
+  {
+    "country": "Serbia",
+    "dialCode": "381",
+    "isoCode": "RS",
+    "image": "assets/flags/rs.png"
+  },
+  {
+    "country": "Seychelles",
+    "dialCode": "248",
+    "isoCode": "SC",
+    "image": "assets/flags/sc.png"
+  },
+  {
+    "country": "Sierra Leone",
+    "dialCode": "232",
+    "isoCode": "SL",
+    "image": "assets/flags/sl.png"
+  },
+  {
+    "country": "Singapore",
+    "dialCode": "65",
+    "isoCode": "SG",
+    "image": "assets/flags/sg.png"
+  },
+  {
+    "country": "Sint Maarten",
+    "dialCode": "1721",
+    "isoCode": "SX",
+    "image": "assets/flags/sx.png"
+  },
+  {
+    "country": "Slovakia",
+    "dialCode": "421",
+    "isoCode": "SK",
+    "image": "assets/flags/sk.png"
+  },
+  {
+    "country": "Slovenia",
+    "dialCode": "386",
+    "isoCode": "SI",
+    "image": "assets/flags/si.png"
+  },
+  {
+    "country": "Solomon Islands",
+    "dialCode": "677",
+    "isoCode": "SB",
+    "image": "assets/flags/sb.png"
+  },
+  {
+    "country": "Somalia",
+    "dialCode": "252",
+    "isoCode": "SO",
+    "image": "assets/flags/so.png"
+  },
+  {
+    "country": "South Africa",
+    "dialCode": "27",
+    "isoCode": "ZA",
+    "image": "assets/flags/za.png"
+  },
+  {
+    "country": "South Korea",
+    "dialCode": "82",
+    "isoCode": "KR",
+    "image": "assets/flags/kr.png"
+  },
+  {
+    "country": "South Sudan",
+    "dialCode": "211",
+    "isoCode": "SS",
+    "image": "assets/flags/ss.png"
+  },
+  {
+    "country": "Spain",
+    "dialCode": "34",
+    "isoCode": "ES",
+    "image": "assets/flags/es.png"
+  },
+  {
+    "country": "Sri Lanka",
+    "dialCode": "94",
+    "isoCode": "LK",
+    "image": "assets/flags/lk.png"
+  },
+  {
+    "country": "Sudan",
+    "dialCode": "249",
+    "isoCode": "SD",
+    "image": "assets/flags/sd.png"
+  },
+  {
+    "country": "Suriname",
+    "dialCode": "597",
+    "isoCode": "SR",
+    "image": "assets/flags/sr.png"
+  },
+  {
+    "country": "Svalbard and Jan Mayen",
+    "dialCode": "47",
+    "isoCode": "SJ",
+    "image": "assets/flags/no.png"
+  },
+  {
+    "country": "Swaziland",
+    "dialCode": "268",
+    "isoCode": "SZ",
+    "image": "assets/flags/sz.png"
+  },
+  {
+    "country": "Sweden",
+    "dialCode": "46",
+    "isoCode": "SE",
+    "image": "assets/flags/se.png"
+  },
+  {
+    "country": "Switzerland",
+    "dialCode": "41",
+    "isoCode": "CH",
+    "image": "assets/flags/ch.png"
+  },
+  {
+    "country": "Syria",
+    "dialCode": "963",
+    "isoCode": "SY",
+    "image": "assets/flags/sy.png"
+  },
+  {
+    "country": "Taiwan",
+    "dialCode": "886",
+    "isoCode": "TW",
+    "image": "assets/flags/tw.png"
+  },
+  {
+    "country": "Tajikistan",
+    "dialCode": "992",
+    "isoCode": "TJ",
+    "image": "assets/flags/tj.png"
+  },
+  {
+    "country": "Tanzania",
+    "dialCode": "255",
+    "isoCode": "TZ",
+    "image": "assets/flags/tz.png"
+  },
+  {
+    "country": "Thailand",
+    "dialCode": "66",
+    "isoCode": "TH",
+    "image": "assets/flags/th.png"
+  },
+  {
+    "country": "Togo",
+    "dialCode": "228",
+    "isoCode": "TG",
+    "image": "assets/flags/tg.png"
+  },
+  {
+    "country": "Tokelau",
+    "dialCode": "690",
+    "isoCode": "TK",
+    "image": "assets/flags/tk.png"
+  },
+  {
+    "country": "Tonga",
+    "dialCode": "676",
+    "isoCode": "TO",
+    "image": "assets/flags/to.png"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "dialCode": "1868",
+    "isoCode": "TT",
+    "image": "assets/flags/tt.png"
+  },
+  {
+    "country": "Tunisia",
+    "dialCode": "216",
+    "isoCode": "TN",
+    "image": "assets/flags/tn.png"
+  },
+  {
+    "country": "Turkey",
+    "dialCode": "90",
+    "isoCode": "TR",
+    "image": "assets/flags/tr.png"
+  },
+  {
+    "country": "Turkmenistan",
+    "dialCode": "993",
+    "isoCode": "TM",
+    "image": "assets/flags/tm.png"
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "dialCode": "1649",
+    "isoCode": "TC",
+    "image": "assets/flags/tc.png"
+  },
+  {
+    "country": "Tuvalu",
+    "dialCode": "688",
+    "isoCode": "TV",
+    "image": "assets/flags/tv.png"
+  },
+  {
+    "country": "U.S. Virgin Islands",
+    "dialCode": "1340",
+    "isoCode": "VI",
+    "image": "assets/flags/vi.png"
+  },
+  {
+    "country": "Uganda",
+    "dialCode": "256",
+    "isoCode": "UG",
+    "image": "assets/flags/ug.png"
+  },
+  {
+    "country": "Ukraine",
+    "dialCode": "380",
+    "isoCode": "UA",
+    "image": "assets/flags/ua.png"
+  },
+  {
+    "country": "United Arab Emirates",
+    "dialCode": "971",
+    "isoCode": "AE",
+    "image": "assets/flags/ae.png"
+  },
+  {
+    "country": "United Kingdom",
+    "dialCode": "44",
+    "isoCode": "GB",
+    "image": "assets/flags/uk.png"
+  },
+  {
+    "country": "United States",
+    "dialCode": "1",
+    "isoCode": "US",
+    "image": "assets/flags/us.png"
+  },
+  {
+    "country": "Uruguay",
+    "dialCode": "598",
+    "isoCode": "UY",
+    "image": "assets/flags/uy.png"
+  },
+  {
+    "country": "Uzbekistan",
+    "dialCode": "998",
+    "isoCode": "UZ",
+    "image": "assets/flags/uz.png"
+  },
+  {
+    "country": "Vanuatu",
+    "dialCode": "678",
+    "isoCode": "VU",
+    "image": "assets/flags/vu.png"
+  },
+  {
+    "country": "Vatican City",
+    "dialCode": "379",
+    "isoCode": "VA",
+    "image": "assets/flags/va.png"
+  },
+  {
+    "country": "Venezuela",
+    "dialCode": "58",
+    "isoCode": "VE",
+    "image": "assets/flags/ve.png"
+  },
+  {
+    "country": "Vietnam",
+    "dialCode": "84",
+    "isoCode": "VN",
+    "image": "assets/flags/vn.png"
+  },
+  {
+    "country": "Wallis and Futuna",
+    "dialCode": "681",
+    "isoCode": "WF",
+    "image": "assets/flags/fr.png"
+  },
+  {
+    "country": "Western Sahara",
+    "dialCode": "212",
+    "isoCode": "EH",
+    "image": "assets/flags/eh.png"
+  },
+  {
+    "country": "Yemen",
+    "dialCode": "967",
+    "isoCode": "YE",
+    "image": "assets/flags/ye.png"
+  },
+  {
+    "country": "Zambia",
+    "dialCode": "260",
+    "isoCode": "ZM",
+    "image": "assets/flags/zm.png"
+  },
+  {
+    "country": "Zimbabwe",
+    "dialCode": "263",
+    "isoCode": "ZW",
+    "image": "assets/flags/zw.png"
+  }
+]
