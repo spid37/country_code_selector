@@ -5,13 +5,31 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'dart:convert';
 
+class CountryCode {
+  final String country;
+  final String isoCode;
+  final String dialCode;
+  final String image;
+
+  CountryCode({this.dialCode, this.country, this.isoCode, this.image});
+
+  factory CountryCode.fromJson(Map<String, dynamic> json) {
+    return new CountryCode(
+      dialCode: json['dialCode'] as String,
+      country: json['country'] as String,
+      isoCode: json['isoCode'] as String,
+      image: json['image'] as String,
+    );
+  }
+}
+
 class CountryCodeSelector extends StatefulWidget {
   final String defaultIsoCode;
   final Function(CountryCode) onChange;
 
   CountryCodeSelector({
     @required this.onChange,
-    this.defaultIsoCode = 'AU', // default AU
+    this.defaultIsoCode = 'AU', // default selected country
   });
 
   @override
@@ -105,24 +123,6 @@ class _CountryCodeSelectorState extends State<CountryCodeSelector> {
   @override
   Widget build(BuildContext context) {
     return _isLoading ? new Container() : new Container(child: _selectButton());
-  }
-}
-
-class CountryCode {
-  final String country;
-  final String isoCode;
-  final String dialCode;
-  final String image;
-
-  CountryCode({this.dialCode, this.country, this.isoCode, this.image});
-
-  factory CountryCode.fromJson(Map<String, dynamic> json) {
-    return new CountryCode(
-      dialCode: json['dialCode'] as String,
-      country: json['country'] as String,
-      isoCode: json['isoCode'] as String,
-      image: json['image'] as String,
-    );
   }
 }
 
